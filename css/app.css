@@ -1,0 +1,42 @@
+@import 'https://fonts.googleapis.com/css?family=Cormorant+Infant:300i|Playfair+Display';
+
+.row{
+  width:100%;}
+
+#main-menu{
+  background-color: #fff;}
+#menubar ul{
+  background-color: #fff;
+  height:50px;
+  text-align:center;}
+#main-menu #menubar a{
+  color: #006400;
+  font-family: 'Playfair Display', sans-serif;}
+
+header{
+  display: flex;
+  height:auto;
+  align-items: center;
+  background-color:rgb(235,235,235);
+  color: #006400;
+}
+#titles{
+  align-items: center;
+  text-align: center;
+  font-family: 'Playfair Display', sans-serif;
+  font-size: 36px;
+}
+#titles p{
+  font-family:'Cormorant Infant' serif;
+  font-size: 20px;
+  font-style: italic;}
+#main{
+  font-family: 'Cormorant Infant', sans-serif;
+  height:auto;
+  text-align: center;
+  display: flex;
+  align-items: center;}
+#main-image{
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;}
